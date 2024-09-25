@@ -1,4 +1,6 @@
 (sym_lib_table
+  (version 7)
   (lib (name "OpenThereminV4-rescue")(type "Legacy")(uri "${KIPRJMOD}/OpenThereminV4-rescue.lib")(options "")(descr ""))
   (lib (name "OpenThereminV41-rescue")(type "Legacy")(uri "${KIPRJMOD}/OpenThereminV41-rescue.lib")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/Library.kicad_sym")(options "")(descr ""))
 )
