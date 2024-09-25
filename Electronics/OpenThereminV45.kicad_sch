@@ -15241,7 +15241,7 @@
 		(at 43.18 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005712bca3")
@@ -15287,7 +15287,34 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "Note" "L=4mm"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5301788"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "SMTSOM340STR"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Yiyuan"
 			(at 43.18 50.8 0)
 			(effects
 				(font
@@ -19103,7 +19130,7 @@
 		(at 43.18 143.51 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000571f63be")
@@ -19149,7 +19176,34 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "Note" "L=4mm"
+			(at 43.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5301788"
+			(at 43.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "SMTSOM340STR"
+			(at 43.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Yiyuan"
 			(at 43.18 143.51 0)
 			(effects
 				(font
