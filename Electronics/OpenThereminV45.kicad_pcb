@@ -30799,6 +30799,17 @@
 		(layer "Dwgs.User")
 		(uuid "6f127ccf-de2a-4ce3-8449-eca586c6da89")
 	)
+	(gr_rect
+		(start 40 59)
+		(end 160 179)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "9f31ec96-497e-4c41-93d7-54dbf5071d7b")
+	)
 	(gr_line
 		(start 103.5 155.75)
 		(end 103.5 158.75)
@@ -30829,6 +30840,26 @@
 		(fill none)
 		(layer "Dwgs.User")
 		(uuid "df509b09-5ead-48ba-bba0-b590d6867a9e")
+	)
+	(gr_line
+		(start 100 54)
+		(end 100 184)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "f625699a-63c6-41e3-8d58-d13c964caa03")
+	)
+	(gr_line
+		(start 35 119)
+		(end 165 119)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "ff9c80c3-daac-45cb-b605-91a32a951a7c")
 	)
 	(gr_line
 		(start 74.75 36.55)
